@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**Pruelens/Pruelens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+ <a href='[https://github.com/chroline/well_app/releases](https://scholar.google.nl/citations?user=o3swJCUAAAAJ&hl=en)'>
+  
+<img src='[https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge](https://raw.githubusercontent.com/Pruelens/pruelens.github.io/main/assets/img/google-scholar-square.svg)'>
+  
+</a>
+  
+<a href='https://pruelens.github.io/'>
+  
+</a>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+
+<div align='center'>
+  
+### Quick Links
