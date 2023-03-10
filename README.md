@@ -1,22 +1,10 @@
 
-<div align="center">
-
- <a href='[https://github.com/chroline/well_app/releases](https://scholar.google.nl/citations?user=o3swJCUAAAAJ&hl=en)'>
-  
-<img src='[https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge](https://raw.githubusercontent.com/Pruelens/pruelens.github.io/main/assets/img/google-scholar-square.svg)'>
-  
-</a>
-  
-<a href='https://pruelens.github.io/'>
-  
-</a>
-  
-</div>
-
-<br />
 
 ---
 
 <div align='center'>
   
-### Quick Links
+### About me
+
+</div>
+As an evolutionary biologist, I'm fascinated by the many factors that impact the tempo and mode of evolution. Put simply, I'm interested in what makes certain evolutionary paths possible, what are the actual paths that evolution is able to take and —if there is a discrepancy between the two— what are the factors affecting their difference. To do this, I use a combination of experimental, phylogenetic and modelling approaches. As I am interested in the universal drivers of evolution, I prefer to work on a wide range of different organisms and mechanisms.
