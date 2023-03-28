@@ -19,3 +19,4 @@ Resources
 ---
 
 [Python4Bio: Exploring Biology and Evolution with Python](https://github.com/Pruelens/Models_In_Biology)
+A repository of jupyter notebooks that explore evolutionary biology and classic biological models using python. 
