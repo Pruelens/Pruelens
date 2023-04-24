@@ -25,7 +25,7 @@ A repository of jupyter notebooks that explore evolutionary biology and classic 
 
 Interactively explore Hardy-weinberg Equilibrium: [Streamlit App](https://pruelens-hw-app-hwstreamlit-iyf2kb.streamlit.app/) or [Repository](https://github.com/Pruelens/HW_app)
 
-[Pixelbact](https://github.com/Pruelens/Pixelbact): A custom script to generate Opentrons python file to spot pixel agar art.
+[Pixelbact](https://github.com/Pruelens/Pixelbact): A custom script to generate Opentrons python instructions to spot pixel agar art.
 
 
 
