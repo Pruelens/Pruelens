@@ -20,7 +20,7 @@ Resources
 
 ---
 
-[Python4Bio: Exploring Biology and Evolution with Python](https://github.com/Pruelens/Models_In_Biology)
+[PyEvoLab: Exploring Biology and Evolution with Python](https://github.com/Pruelens/Models_In_Biology)
 A repository of jupyter notebooks that explore evolutionary biology and classic biology models using python. 
 
 Interactively explore Hardy-weinberg Equilibrium: [Streamlit App](https://pruelens-hw-app-hwstreamlit-iyf2kb.streamlit.app/) or [Repository](https://github.com/Pruelens/HW_app)
